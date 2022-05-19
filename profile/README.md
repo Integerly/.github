@@ -31,13 +31,13 @@ It was a long way, but we are finally here.
 
 ### Team
 
-- [Team Lead](https://www.linkedin.com/in/danikhandro/) - Team Lead
-- [Backend Lead](https://www.linkedin.com/in/danikhandro/) - Backend Lead
+- [Daniyar Aubekerov](https://github.com/daniyardake) - Team Lead
+- [Chad Sutherland](https://github.com/cjsuth) - Backend Lead
   - [Backend Engineer 1](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 1
   - [Backend Engineer 2](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 2
   - [Backend Engineer 3](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 3
   - [Backend Engineer 4](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 4
-- [Frontend Lead](https://www.linkedin.com/in/danikhandro/) - Team Lead
+- [Taiyr Begeyev](https://github.com/taiyrbegeyev) - Frontend Lead
   - [Frontend Engineer 1](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 1
   - [Frontend Engineer 2](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 2
   - [Frontend Engineer 3](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 3
