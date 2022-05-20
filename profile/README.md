@@ -33,19 +33,19 @@ It was a long way, but we are finally here.
 
 - [Daniyar Aubekerov](https://github.com/daniyardake) - Team Lead
 - [Chad Sutherland](https://github.com/cjsuth) - Backend Lead
-  - [Backend Engineer 1](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 1
-  - [Backend Engineer 2](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 2
-  - [Backend Engineer 3](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 3
-  - [Backend Engineer 4](https://www.linkedin.com/in/danikhandro/) - Backend Engineer 4
+  - [Daniyar Mukhambetov](https://github.com/daniyarmukhambetov) - Backend Engineer
+  - [Aray Sultanbekova](https://github.com/Araikin) - Backend Engineer
+  - [Aldan Kudabayev](https://github.com/aldan) - Backend Engineer
+  - [Margulan Zholaman](https://github.com/margulanz/) - Backend Engineer
 - [Taiyr Begeyev](https://github.com/taiyrbegeyev) - Frontend Lead
-  - [Frontend Engineer 1](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 1
+  - [Assel Bersinbayeva](https://github.com/Asselya1999) - Frontend Engineer
   - [Frontend Engineer 2](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 2
   - [Frontend Engineer 3](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 3
   - [Frontend Engineer 4](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 4
-- [Business Development Lead](https://www.linkedin.com/in/danikhandro/) - Business Development Lead
-  - [Math Olympiad Expert 1](https://www.linkedin.com/in/danikhandro/) - Math Olympiad Expert 1
-  - [Math Olympiad Expert 2](https://www.linkedin.com/in/danikhandro/) - Math Olympiad Expert 2
-  - [Marketing and Design Expert 1](https://www.linkedin.com/in/danikhandro/) - Marketing and Design Expert 2
+- [Almas Bralinov](https://www.linkedin.com/in/danikhandro/) - Business Development Lead
+  - [Didar Kozhikov](https://www.linkedin.com/in/didar-kozhikov-a5036020b/) - Math Olympiad Expert 1
+  - [Batyrkhan Sakenov](https://www.linkedin.com/in/batyrkhan-sakenov-80ba391b2/) - Math Olympiad Expert 2
+  - [Aisha Bikebayeva](https://www.linkedin.com/in/bikebayeva/) - Marketing and Design Expert
   - [Marketing and Design Expert 1](https://www.linkedin.com/in/danikhandro/) - Marketing and Design Expert 2
 
 <p align="right">(<a href="#top">back to top</a>)</p>
