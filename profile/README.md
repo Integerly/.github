@@ -39,14 +39,14 @@ It was a long way, but we are finally here.
   - [Margulan Zholaman](https://github.com/margulanz/) - Backend Engineer
 - [Taiyr Begeyev](https://github.com/taiyrbegeyev) - Frontend Lead
   - [Assel Bersinbayeva](https://github.com/Asselya1999) - Frontend Engineer
-  - [Frontend Engineer 2](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 2
-  - [Frontend Engineer 3](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 3
-  - [Frontend Engineer 4](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 4
+  - [Azat Aldeshov](https://github.com/Aldeshov) - Frontend Engineer
+  - [Yernar	Mukayev](https://github.com/yernii) - Frontend Engineer
+  - [Frontend Engineer](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 
 - [Almas Bralinov](https://www.linkedin.com/in/danikhandro/) - Business Development Lead
-  - [Didar Kozhikov](https://www.linkedin.com/in/didar-kozhikov-a5036020b/) - Math Olympiad Expert 1
-  - [Batyrkhan Sakenov](https://www.linkedin.com/in/batyrkhan-sakenov-80ba391b2/) - Math Olympiad Expert 2
   - [Aisha Bikebayeva](https://www.linkedin.com/in/bikebayeva/) - Marketing and Design Expert
-  - [Marketing and Design Expert 1](https://www.linkedin.com/in/danikhandro/) - Marketing and Design Expert 2
+  - [Didar Kozhikov](https://www.linkedin.com/in/didar-kozhikov-a5036020b/) - Math Olympiad Expert
+  - [Batyrkhan Sakenov](https://www.linkedin.com/in/batyrkhan-sakenov-80ba391b2/) - Math Olympiad Expert
+  - [Math Olympiad Expert](https://www.linkedin.com/in/danikhandro/) - Math Olympiad Expert
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
