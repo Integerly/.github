@@ -38,7 +38,7 @@ It was a long way, but we are finally here.
   - [Aldan Kudabayev](https://github.com/aldan) - Backend Engineer
   - [Margulan Zholaman](https://github.com/margulanz/) - Backend Engineer
 - [Taiyr Begeyev](https://github.com/taiyrbegeyev) - Frontend Lead
-  - [Assel Bersinbayeva](https://github.com/Asselya1999) - Frontend Engineer
+  - [Assel Abzalova](https://github.com/ltwmori) - Frontend Engineer
   - [Azat Aldeshov](https://github.com/Aldeshov) - Frontend Engineer
   - [Yernar	Mukayev](https://github.com/yernii) - Frontend Engineer
   - [Frontend Engineer](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 
