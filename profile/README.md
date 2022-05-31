@@ -41,7 +41,7 @@ It was a long way, but we are finally here.
   - [Assel Abzalova](https://github.com/ltwmori) - Frontend Engineer
   - [Azat Aldeshov](https://github.com/Aldeshov) - Frontend Engineer
   - [Yernar	Mukayev](https://github.com/yernii) - Frontend Engineer
-  - [Frontend Engineer](https://www.linkedin.com/in/danikhandro/) - Frontend Engineer 
+  - [Alisher Karim](https://github.com/alisherkarim) - Frontend Engineer 
 - [Almas Bralinov](https://www.linkedin.com/in/danikhandro/) - Business Development Lead
   - [Aisha Bikebayeva](https://www.linkedin.com/in/bikebayeva/) - Marketing and Design Expert
   - [Didar Kozhikov](https://www.linkedin.com/in/didar-kozhikov-a5036020b/) - Math Olympiad Expert
